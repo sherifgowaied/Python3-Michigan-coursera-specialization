@@ -10,7 +10,7 @@
 - **Name**: Python Basics
 - **Issuing Organization**: Coursera
 - **Issue Date**: February 2022
-- **Expiration Date**: This certification does not expire
+- **Expiration Date**: This certification does not expire.
 - **Credential ID**: Z54KK2KG6RZH
 - **Credential URL**: <https://www.coursera.org/account/accomplishments/verify/Z54KK2KG6RZH>
 
